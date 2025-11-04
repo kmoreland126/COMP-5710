@@ -1,0 +1,150 @@
+Error #1
+Timestamp: 2025-10-27 20:08:21
+Attempt: 1
+Inputs: ('gswc', 'r3tnwl')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #2
+Timestamp: 2025-10-27 20:08:21
+Attempt: 2
+Inputs: ('5ND7uMLgvNB', 'jy7Yhqq')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #3
+Timestamp: 2025-10-27 20:08:21
+Attempt: 3
+Inputs: ('Wa1X0N', 'pEW3LaHOAj')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #4
+Timestamp: 2025-10-27 20:08:21
+Attempt: 4
+Inputs: ('Z1A', '3')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #5
+Timestamp: 2025-10-27 20:08:21
+Attempt: 5
+Inputs: ('ZV0sCpIPn', '2v2')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #6
+Timestamp: 2025-10-27 20:08:21
+Attempt: 6
+Inputs: ('vaLktVv72', 'sVnwgoX3b')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #7
+Timestamp: 2025-10-27 20:08:21
+Attempt: 7
+Inputs: ('ZARuqWTV', 'LyTvJubLJwPJ')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #8
+Timestamp: 2025-10-27 20:08:21
+Attempt: 8
+Inputs: ('GpcVRfopOtu', 'BR')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #9
+Timestamp: 2025-10-27 20:08:21
+Attempt: 9
+Inputs: ('DQiJwSpx', 'M')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------
+Error #10
+Timestamp: 2025-10-27 20:08:21
+Attempt: 10
+Inputs: ('Lv8T1i', 'EPAo1r')
+Exception: TypeError: unsupported operand type(s) for /: 'str' and 'str'
+Traceback:
+Traceback (most recent call last):
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 38, in simpleFuzzer
+    _ = divide(s1, s2)
+  File "/Users/kem0149/Library/CloudStorage/OneDrive-AuburnUniversity/Desktop/Software Quality Assurance/Workshops/W10/w10.py", line 11, in divide
+    return v1/ v2
+           ~~^~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+
+------------------------------------------------------------

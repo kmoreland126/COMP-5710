@@ -1,0 +1,28 @@
+Admin by default: 225
+Avoid comments: 14,962
+Duplicate block: 1,159
+Empty password: 190
+Full permission to the filesystem: 10
+Hard-coded password: 704
+Hard-coded secret: 2,753
+Hard-coded user: 1,333
+Imperative abstraction: 120
+Improper alignment: 737
+Invalid IP address binding: 83
+Long Resource: 157
+Long statement: 607
+Misplaced attribute: 92
+Missing default case statement: 273
+Multifaceted Abstraction: 307
+No integrity check: 2
+Suspicious comment: 840
+Too many variables: 190
+Unguarded variable: 0
+Unnecessary abstraction: 0
+Use of HTTP without TLS: 185
+Use of obsolete command or function: 105
+Weak Crypto Algorithm: 40
+
+Total IaC files: 5,268
+Lines of Code: 328,886
+
