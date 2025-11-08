@@ -1,0 +1,14 @@
+1. bandit -r -a file --severity-level=low --confidence-level=low -f txt w12/
+2. bandit -r -a vuln --severity-level=medium --confidence-level=medium -f txt w1
+2/
+3. bandit -r -a vuln --severity-level=high --confidence-level=high -f json w12/ork
+4. bandit -r -a file --severity-level=high --confidence-level=medium -f html w12
+/
+5. bandit -r -a file --severity-level=medium --confidence-level=high -f html w12
+/
+6. bandit -r -a vuln --severity-level=low --confidence-level=low -f html w12/
+7. bandit -r -a file --severity-level=low --confidence-level=high -f json w12/
+8. bandit -r -a file --severity-level=medium --confidence-level=low -f json w12/
+9. bandit -r -a file --severity-level=high --confidence-level=low -f txt w12/ bandit -r -a file --severity-level=low --confidence-level-medium -f json w12
+/
+11. bandit -r -a file --severity-level-low --confidence-level-high -f txt w12/
